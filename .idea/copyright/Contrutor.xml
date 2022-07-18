@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceRegexp" value="Construtor" />
+    <option name="notice" value="public class Main { &#10;    public static void main(String args) {&#10;        System.out.println(&quot;Calculadora&quot;);&#10;        Produto produto = new Produto(); &#10;    } &#10;}" />
+    <option name="myName" value="Contrutor" />
+  </copyright>
+</component>
